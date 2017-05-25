@@ -1,4 +1,4 @@
-package com.company;
+package com.gmail.sunnyxxchen;
 
 public class Main {
 
