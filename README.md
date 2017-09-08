@@ -1,5 +1,5 @@
 # simple-scrabble
-A simple program to play Scrabble (or Words with Friends I guess)
+A simple program to play Scrabble for me (or Words with Friends I guess)
 
 Credits(?):
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
